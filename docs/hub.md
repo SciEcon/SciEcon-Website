@@ -31,7 +31,7 @@ After joining our group, community members will be able to receive push emails f
 
 #### What is this position about?
 
-SciEcon Program forms a viable community aimed at developing a friendly atmosphere for academic research and innovation projects. In the SciEcon Program, talents are able to train their leadership skills and develop their academic or industry experiences through various opportunities. There are altogether 8 programs available right now, and more information can be found on the Resources page: 
+SciEcon Program forms a viable community aimed at developing a friendly atmosphere for academic research and innovation projects. In the SciEcon Program, talents are able to train their leadership skills and develop their academic or industry experiences through various opportunities. There are altogether 8 programs available right now, and more information can be found on the Program page: 
 - SciEcon AMA; 
 - SciEcon Research;
 - SciEcon Innovation; 
