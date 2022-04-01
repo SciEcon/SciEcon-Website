@@ -10,7 +10,7 @@ SciEcon CIC is an NPO registered in the UK. SciEcon exists to:
 
  SciEcon has 7 Signature Programs: SciEcon Ask Me Anything (AMA), Research, Innovation, Sustainability, Supertalent, Publication, and Creation. We create at the intersection of academic disciplines and industry practices. We develop scientific methodology to solve the problem of economics. 
 
-## Our Event 
+## Spotlight and News
 
 <!-- Need to update the content here -->
 
