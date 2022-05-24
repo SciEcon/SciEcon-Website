@@ -3,9 +3,14 @@ site_description: "research, innovation, and leadership in light of eastern and 
 repo_url: "https://github.com/SciEcon/SciEcon-Website/"
 
 theme:
+  palette: 
+    scheme: default
+  
+  
   name: material
   custom_dir: overrides
   logo: assets/logo-dark-mode-v1.png
+  favicon: assets/logo-light-mode-v1.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -35,3 +40,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - tables
+
+extra_css:
+  - stylesheets/extra.css

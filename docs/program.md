@@ -2,8 +2,9 @@
 
 ## SciEcon AMA
 
-> In light of eastern and western philosophy
-> The renaissance of Plato’s Republic and Confucius Analects
+!!! quote
+    In light of eastern and western philosophy
+    The renaissance of Plato’s Republic and Confucius Analects
 
 **Program Sites**: [separate github and fleek page ]
 
@@ -19,8 +20,9 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ## SciEcon Research 
 
-> In light of eastern and western philosophy
-> The renaissance of Plato’s Republic and Confucius Analects
+!!! quote
+    In light of eastern and western philosophy
+    The renaissance of Plato’s Republic and Confucius Analects
 
 **Current Executive Co-Chairs**: Yinhong (William) Zhao, Ziliang (Lewis) Tian
 
@@ -34,8 +36,9 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ## SciEcon Innovate
 
-> In light of eastern and western philosophy
-> The renaissance of Plato’s Republic and Confucius Analects
+!!! quote
+    In light of eastern and western philosophy
+    The renaissance of Plato’s Republic and Confucius Analects
 
 **Current Executive Chair**: Zesen Zhuag
 
@@ -50,8 +53,9 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 
 ## SciEcon Insights
 
-> In light of eastern and western philosophy
-> The renaissance of Plato’s Republic and Confucius Analects
+!!! quote
+    In light of eastern and western philosophy
+    The renaissance of Plato’s Republic and Confucius Analects
 
 **Current Executive Chair**: Xinyu Tian
 
@@ -63,8 +67,9 @@ SciEcon Insights aims to spread frontier knowledge and findings, promote convers
 
 ## SciEcon Sustainability 
 
-> In light of eastern and western philosophy
-> The renaissance of Plato’s Republic and Confucius Analects
+!!! quote
+    In light of eastern and western philosophy
+    The renaissance of Plato’s Republic and Confucius Analects
 
 **Current Executive Chair**: Lewis Tian
 
@@ -78,8 +83,9 @@ Event Series (To be launched): `tutorial`, `workshop`, and `research program` to
 
 ## SciEcon Supertalent
 
-> In light of eastern and western philosophy
-> The renaissance of Plato’s Republic and Confucius Analects
+!!! quote
+    In light of eastern and western philosophy
+    The renaissance of Plato’s Republic and Confucius Analects
 
 **Current Executive Chair**: Tianyu Wu
 
@@ -93,8 +99,9 @@ Event Series (To be launched): `Internship` on academic and industry collaborati
 
 ## SciEcon Creation
 
-> In light of eastern and western philosophy
-> The renaissance of Plato’s Republic and Confucius Analects
+!!! quote
+    In light of eastern and western philosophy
+    The renaissance of Plato’s Republic and Confucius Analects
 
 **Current Executive Chairs**: Yixuan Li, Zesen Zhuang
 
@@ -108,8 +115,9 @@ Event Series (To be launched): `SciEcon Design`,  `NFT collections` of AI genera
 
 ## SciEcon Resources
 
-> In light of eastern and western philosophy
-> The renaissance of Plato’s Republic and Confucius Analects
+!!! quote
+    In light of eastern and western philosophy
+    The renaissance of Plato’s Republic and Confucius Analects
 
 **Current Executing Chairs**: Ziliang (Lewis) Tian, Yinhong (William) Zhao
 
@@ -121,8 +129,9 @@ SciEcon provides comprehensive resources to support research, innovation, and le
 
 ## SciEcon Lab Incubator Program
 
-> In light of eastern and western philosophy
-> The renaissance of Plato’s Symposium (Sympósion) and Wang Xizhi’s (王羲之) Orchid Pavilion Preface (蘭亭序).
+!!! quote
+    In light of eastern and western philosophy
+    The renaissance of Plato’s Symposium (Sympósion) and Wang Xizhi’s (王羲之) Orchid Pavilion Preface (蘭亭序).
 
 **Current Executive Chairs**: Zichao Chen and Yufan Zhang
 
