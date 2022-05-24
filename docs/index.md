@@ -1,17 +1,58 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## SciEcon CIC
 
-## Commands
+<figure markdown>
+![logo](assets/logo-light-mode-v1.png){ width="150" }
+</figure>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+SciEcon CIC is an NPO registered in the UK. SciEcon exists to:
 
-## Project layout
+- cultivate an integrated talent of researcher, engineer, entrepreneur, investor, philanthropist, and beyond
+- Nurture leadership through focusing on interdisciplinary research, the interplay between teaching, research, and practice, and conversation between intellectuals
+- host educational events such as interdisciplinary seminars, symposiums, conferences for a hub of global students, researchers, scholars, practitioners, and beyond
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Our Programs
+
+!!! note ""
+
+    SciEcon has 9 Signature Programs in light of east and west philosophy including SciEcon AMA, Research, Innovation, Sustainability, Supertalent, Insight, Creation, Resources, and Lab Incubator Program. We create at the intersection of academic disciplines and industry practices. We develop scientific methodology to solve the problem of economics. We host intellectual conversation that inspires both profound insights and practical impacts. We gather global scholars to partake in the dear delight of east and west philosophy. The master said, “Virtue is not left to stand alone. He who practices it will have neighbors.” We are in this, all together!
+
+    <p style="text-align: right">―Inaugural Programs Address by  Prof. Luyao Zhang </p>
+
+## Spotlight
+
+SciEcon hosts events to spotlight intellectual conversations for pioneers in academia and industry. Our event include AMA interviews, seminars, symposiums, conferences, and beyond. We create event documentaries and creative films as part of industry 4.0 Open Educational Resource (OER) publication initiatives. 
+
+## SciEcon Hub
+
+Join our community on multiple platforms to partake in and contribute to intellectual conversation ever since and ever after:
+
+- [x] LinkedIn: <https://www.linkedin.com/company/sciecon-cic>
+- [x] Twitter: <https://twitter.com/SciEcon_CIC>
+- [x] YouTube: <https://www.youtube.com/channel/UCQOvF-D45s09FlajFkKzoOA>
+- [x] Github: <https://github.com/SciEcon>
+- [x] Facebook: <https://www.facebook.com/sciecon2022>
+- [x] Medium: <https://sciecon.medium.com>
+    - [x] SciEcon-Research:　<https://medium.com/sciecon-research>
+    - [x] SciEcon-Innovate:　<https://medium.com/sciecon-innovate>
+    - [x] SciEcon-AMA: <https://medium.com/sciecon-ama>
+- [x] WeChat (ID): SciEcon
+
+<figure markdown>
+  ![Image title](assets/WeChat30cm.jpg){ width="300" }
+  <figcaption>SciEcon WeChat QR Code</figcaption>
+</figure>
+
+- [x] **Subscribe to our news letters** by joining our Google Group: 
+<https://groups.google.com/forum/#!forum/sciecon-community/join>
+
+## Find Resources
+
+SciEcon provides comprehensive resources to support research, innovation, and leadership, including literature, data, institution, and event. *Literature* includes insightful research articles; *Data* provides useful data sources for research; *Institution* includes academic and industry organizations that share our vision; *Event* gathers relevant educational events and activities that the SciEcon community recommends.
+
+## Contact Us
+
+We recommend you to join our SciEcon Hubs first and contact further after you understand our guiding philosophy and real-world practices. 
+
+If you have further interest, please send emails to: <medium@sciecon.org>.

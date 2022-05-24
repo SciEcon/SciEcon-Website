@@ -1,1 +1,37 @@
-site_name: My Docs
+site_name: SciEcon CIC
+site_description: "research, innovation, and leadership in light of eastern and western philosophy the renaissance of Greek Academy and Confucius Schools"
+repo_url: "https://github.com/SciEcon/SciEcon-Website/"
+
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/logo-dark-mode-v1.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate
+
+
+nav:
+  - Home: index.md
+  - Program: Program.md
+  - Spotlight: Spotlight.md
+  - Resources: Resources.md
+  - "SciEcon Hub": Hub.md
+  - "About Us": About.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables

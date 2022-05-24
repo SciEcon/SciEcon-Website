@@ -2,36 +2,30 @@
 
 ## All Hubs
 
-- [SciEcon LinkedIn](https://linkedin.com/company/sciecon-research-accelerator)
-- SciEcon Medium 
-    - [SciEcon AMA]()
-    - [SciEcon Research]()
-    - [SciEcon Innovate]()
-- [SciEcon PubPub]()
-- [SciEcon WeChat](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4OTYyMDYwNQ==&scene=124#wechat_redirect) 
-- [SciEcon Slack](https://sciecon.slack.com/archives/C01M7SJPGM8)
-- [SciEcon Twitter]()
-- [SciEcon Google Group]()
+Join our community on multiple platforms to partake in and contribute to intellectual conversation ever since and ever after:
 
-## Open Positions at SciEcon 
+- [x] LinkedIn: <https://www.linkedin.com/company/sciecon-cic>
+- [x] Twitter: <https://twitter.com/SciEcon_CIC>
+- [x] YouTube: <https://www.youtube.com/channel/UCQOvF-D45s09FlajFkKzoOA>
+- [x] Github: <https://github.com/SciEcon>
+- [x] Facebook: <https://www.facebook.com/sciecon2022>
+- [x] Medium: <https://sciecon.medium.com>
+    - [x] SciEcon-Research:　<https://medium.com/sciecon-research>
+    - [x] SciEcon-Innovate:　<https://medium.com/sciecon-innovate>
+    - [x] SciEcon-AMA: <https://medium.com/sciecon-ama>
+- [x] WeChat (ID): SciEcon
 
-### Join as SciEcon Community Member
+<figure markdown>
+  ![Image title](assets/WeChat30cm.jpg){ width="300" }
+  <figcaption>SciEcon WeChat QR Code</figcaption>
+</figure>
 
-#### What is the position about? 
+- [x] **Subscribe to our news letters** by joining our Google Group: 
+<https://groups.google.com/forum/#!forum/sciecon-community/join>
 
-SciEcon Community Member is a community involving active participants or those who are interested in SciEcon events. A community member is eligible to subscribe to all the public events in SciEcon, and receive timely event notifications sent by SciEcon.
+## Join SciEcon Google Group
 
-#### How to join? 
+Subscribe to SciEcon google group to receive our monthly and on-demand newsletters including the spotlight of events, resources, and call for positions. 
+<https://groups.google.com/forum/#!forum/sciecon-community/join>
 
-Please fill in the following application form:
-[Directed to the form to submit personal information]
-<!-- TODO: create a google from to collect information -->
-
-After joining our group, community members will be able to receive push emails from SciEcon CIC and post reviewed replies. If you’re not sure how to use and join Google Groups, please check out the tutorial on this site: https://support.google.com/groups/answer/1067205?hl=en.
-
-
-### Application Form 
-
-Please fill out the [application form]() to apply to open positions. 
-
-
+If you’re not sure how to use and join Google Groups, please check out the tutorial on this site: <https://support.google.com/groups/answer/1067205?hl=en>.
