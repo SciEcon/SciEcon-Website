@@ -500,7 +500,7 @@
 
 ![headshot](assets/headshots/chenyu-wang.jpg){align=right width="170"}
 
-**Name**: Jingwei Li
+**Name**: Chenyu Wang
 
 **Title**: Innovation Affiliate
 
