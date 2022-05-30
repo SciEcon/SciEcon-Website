@@ -144,7 +144,7 @@
     
     Explore the possibility of combining design and technology to create beautiful and functional existences.
 
----
+<!-- ---
 
 ![headshot](assets/headshots/yinhong-zhao.jpg){align=right width="170"}
 
@@ -161,7 +161,7 @@
 
 !!! quote "Motto (Bilingual)"
     
-    Maximizing personal value-added to the world
+    Maximizing personal value-added to the world -->
 
 ---
 
