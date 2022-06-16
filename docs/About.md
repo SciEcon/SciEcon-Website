@@ -9,14 +9,14 @@
 ---
 
 <div style="display: flex;" markdown>
-<img id="luyao" src="docs/people_thumbnail/luyao.jpg" onmouseover="luyaoHover();" onmouseout="luyaoOffHover();" width="200" />
+<img id="luyao" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/luyao.jpg" onmouseover="luyaoHover();" onmouseout="luyaoOffHover();" width="200" />
 <script>
 let luyaoOffHover = () => {
-    document.getElementById('luyao').setAttribute('src', 'docs/people_thumbnail/luyao.jpg');
+    document.getElementById('luyao').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/luyao.jpg');
 };
 
 let luyaoHover = () => {
-    document.getElementById('luyao').setAttribute('src', 'docs/nft/小篆_道_Luyao Zhang.png');
+    document.getElementById('luyao').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/小篆_道_Luyao%20Zhang.png');
 };
 </script>
 
@@ -50,14 +50,14 @@ let luyaoHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img id="yulin" src="/people_thumbnail/yulin.jpg" onmouseover="yulinHover();" onmouseout="yulinOffHover();" width="200" />
+<img id="yulin" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yulin.jpg" onmouseover="yulinHover();" onmouseout="yulinOffHover();" width="200" />
 <script>
 let yulinOffHover = () => {
-    document.getElementById('yulin').setAttribute('src', '/people_thumbnail/yulin.jpg');
+    document.getElementById('yulin').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yulin.jpg');
 };
 
 let yulinHover = () => {
-    document.getElementById('yulin').setAttribute('src', '/nft/楷体_明_Yulin Liu.png');
+    document.getElementById('yulin').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_明_Yulin%20Liu.png');
 };
 </script>
 <div style="width: 5%">
@@ -83,14 +83,14 @@ let yulinHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img id="jiasheng" src="/people_thumbnail/jiasheng.png" onmouseover="jiashengHover();" onmouseout="jiashengOffHover();" width="200" />
+<img id="jiasheng" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jiasheng.png" onmouseover="jiashengHover();" onmouseout="jiashengOffHover();" width="200" />
 <script>
 let jiashengOffHover = () => {
-    document.getElementById('jiasheng').setAttribute('src', '/people_thumbnail/jiasheng.png');
+    document.getElementById('jiasheng').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jiasheng.png');
 };
 
 let jiashengHover = () => {
-    document.getElementById('jiasheng').setAttribute('src', '/nft/楷体_谢_Ray Zhu.png');
+    document.getElementById('jiasheng').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_谢_Ray%20Zhu.png');
 };
 </script>
 <div style="width: 5%">
@@ -112,14 +112,14 @@ let jiashengHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img id="xinyu" src="/people_thumbnail/xinyu.jpg" onmouseover="xinyuHover();" onmouseout="xinyuOffHover();" width="200" />
+<img id="xinyu" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/xinyu.jpg" onmouseover="xinyuHover();" onmouseout="xinyuOffHover();" width="200" />
 <script>
 let xinyuOffHover = () => {
-    document.getElementById('xinyu').setAttribute('src', '/people_thumbnail/xinyu.jpg');
+    document.getElementById('xinyu').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/xinyu.jpg');
 };
 
 let xinyuHover = () => {
-    document.getElementById('xinyu').setAttribute('src', '/nft/隶书_宇_Michelle Tian.png');
+    document.getElementById('xinyu').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/隶书_宇_Michelle%20Tian.png');
 };
 </script>
 <div style="width: 5%">
@@ -141,14 +141,14 @@ let xinyuHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img id="tianyu" src="/people_thumbnail/tianyu.jpg" onmouseover="tianyuHover();" onmouseout="tianyuOffHover();" width="200" />
+<img id="tianyu" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/tianyu.jpg" onmouseover="tianyuHover();" onmouseout="tianyuOffHover();" width="200" />
 <script>
 let tianyuOffHover = () => {
-    document.getElementById('tianyu').setAttribute('src', '/people_thumbnail/tianyu.jpg');
+    document.getElementById('tianyu').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/tianyu.jpg');
 };
 
 let tianyuHover = () => {
-    document.getElementById('tianyu').setAttribute('src', '/nft/隶书_和_Tianyu Wu.png');
+    document.getElementById('tianyu').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/隶书_和_Tianyu%20Wu.png');
 };
 </script>
 <div style="width: 5%">
@@ -172,14 +172,14 @@ let tianyuHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img id="yixuan" src="/people_thumbnail/yixuan.jpg" onmouseover="yixuanHover();" onmouseout="yixuanOffHover();" width="200" />
+<img id="yixuan" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg" onmouseover="yixuanHover();" onmouseout="yixuanOffHover();" width="200" />
 <script>
 let yixuanOffHover = () => {
-    document.getElementById('yixuan').setAttribute('src', '/people_thumbnail/yixuan.jpg');
+    document.getElementById('yixuan').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg');
 };
 
 let yixuanHover = () => {
-    document.getElementById('yixuan').setAttribute('src', '/nft/楷体_救_Austen Li.png');
+    document.getElementById('yixuan').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_救_Austen%20Li.png');
 };
 </script>
 <div style="width: 5%">
@@ -202,14 +202,14 @@ let yixuanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img id="ziliang" src="/people_thumbnail/ziliang.jpg" onmouseover="ziliangHover();" onmouseout="ziliangOffHover();" width="200" />
+<img id="ziliang" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ziliang.jpg" onmouseover="ziliangHover();" onmouseout="ziliangOffHover();" width="200" />
 <script>
 let ziliangOffHover = () => {
-    document.getElementById('ziliang').setAttribute('src', '/people_thumbnail/ziliang.jpg');
+    document.getElementById('ziliang').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ziliang.jpg');
 };
 
 let ziliangHover = () => {
-    document.getElementById('ziliang').setAttribute('src', '/nft/行书_乐_Lewis Tian.png');
+    document.getElementById('ziliang').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/行书_乐_Lewis%20Tian.png');
 };
 </script>
 <div style="width: 5%">
@@ -230,14 +230,14 @@ let ziliangHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img id="zesen" src="/people_thumbnail/zesen.jpg" onmouseover="zesenHover();" onmouseout="zesenOffHover();" width="200" />
+<img id="zesen" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zesen.jpg" onmouseover="zesenHover();" onmouseout="zesenOffHover();" width="200" />
 <script>
 let zesenOffHover = () => {
-    document.getElementById('zesen').setAttribute('src', '/people_thumbnail/zesen.jpg');
+    document.getElementById('zesen').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zesen.jpg');
 };
 
 let zesenHover = () => {
-    document.getElementById('zesen').setAttribute('src', '/nft/小篆_福_Zesen Zhuang.png');
+    document.getElementById('zesen').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/小篆_福_Zesen%20Zhuang.png');
 };
 </script>
 <div style="width: 5%">
@@ -260,14 +260,14 @@ let zesenHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img id="zichao" src="/people_thumbnail/zichao.jpg" onmouseover="zichaoHover();" onmouseout="zichaoOffHover();" width="200" />
+<img id="zichao" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zichao.jpg" onmouseover="zichaoHover();" onmouseout="zichaoOffHover();" width="200" />
 <script>
 let zichaoOffHover = () => {
-    document.getElementById('zichao').setAttribute('src', '/people_thumbnail/zichao.jpg');
+    document.getElementById('zichao').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zichao.jpg');
 };
 
 let zichaoHover = () => {
-    document.getElementById('zichao').setAttribute('src', '/nft/楷体_超_Zichao Chen.png');
+    document.getElementById('zichao').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_超_Zichao%20Chen.png');
 };
 </script>
 <div style="width: 5%">
@@ -288,14 +288,14 @@ let zichaoHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img id="yufan" src="/people_thumbnail/yufan.png" onmouseover="yufanHover();" onmouseout="yufanOffHover();" width="200" />
+<img id="yufan" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yufan.png" onmouseover="yufanHover();" onmouseout="yufanOffHover();" width="200" />
 <script>
 let yufanOffHover = () => {
-    document.getElementById('yufan').setAttribute('src', '/people_thumbnail/yufan.png');
+    document.getElementById('yufan').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yufan.png');
 };
 
 let yufanHover = () => {
-    document.getElementById('yufan').setAttribute('src', '/nft/楷体_林_Yufan Zhang.png');
+    document.getElementById('yufan').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_林_Yufan%20Zhang.png');
 };
 </script>
 <div style="width: 5%">
@@ -319,7 +319,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/xinyu.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/xinyu.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -334,7 +334,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/zesen.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zesen.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -351,7 +351,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/tianyu.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/tianyu.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -366,7 +366,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/jiasheng.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jiasheng.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -381,7 +381,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/yinhong.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yinhong.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -396,7 +396,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/ziliang.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ziliang.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -411,7 +411,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/zichao.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zichao.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -426,7 +426,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/yufan.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yufan.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -441,7 +441,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/yixuan.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -456,7 +456,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/jiayi.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jiayi.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -471,7 +471,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/lunji.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/lunji.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -486,7 +486,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/saad.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/saad.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -501,7 +501,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/carlos.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/carlos.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -516,7 +516,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/jingwei.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jingwei.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -531,7 +531,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/chengyu.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/chengyu.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -546,7 +546,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/jiarui.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jiarui.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -561,7 +561,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/jingxi.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jingxi.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -576,7 +576,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/zhiyi.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zhiyi.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -591,7 +591,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/fei.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/fei.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -606,7 +606,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/francesco.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/francesco.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -621,7 +621,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/zhitong.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zhitong.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -636,7 +636,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/haoxin.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/haoxin.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -653,7 +653,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/campbell.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/campbell.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -666,7 +666,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/jimmie.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jimmie.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -679,7 +679,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/jeffrey.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jeffrey.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -692,7 +692,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/fei_yue.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/fei_yue.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -705,7 +705,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/robert.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/robert.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -718,7 +718,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/vincent.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/vincent.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -731,7 +731,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/gary.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/gary.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -744,7 +744,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/fan.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/fan.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -757,7 +757,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/kartik.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/kartik.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -770,7 +770,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/dustin.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/dustin.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -783,7 +783,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/diana.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/diana.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -796,7 +796,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/kevin.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/kevin.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -809,7 +809,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/ye.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ye.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -822,7 +822,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/yu.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yu.jpg" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -835,7 +835,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/charles.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/charles.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -848,7 +848,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/justin.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/justin.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -861,7 +861,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/bill.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/bill.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -874,7 +874,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/olivier.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/olivier.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -887,7 +887,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/lee.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/lee.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -900,7 +900,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/luciano.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/luciano.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -913,7 +913,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/rhys.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/rhys.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -926,7 +926,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/oum.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/oum.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -939,7 +939,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/dylan.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/dylan.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -952,7 +952,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/malika.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/malika.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
@@ -965,7 +965,7 @@ let yufanHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img src="/people_thumbnail/derrick.png" width="200" />
+<img src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/derrick.png" width="200" />
 <div style="width: 5%">
 </div>
 <div markdown style="width: 70%;">
