@@ -2,10 +2,11 @@
 
 ## SciEcon AMA
 
-<!-- !!! quote
+!!! quote
     In light of eastern and western philosophy
 
-    The renaissance of Plato’s Republic and Confucius Analects -->
+    The renaissance of Plato’s Republic and Confucius Analects
+
 
 **Program Sites**: <https://insight.sciecon.org/articles/AMA/>
 
@@ -21,9 +22,11 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ## SciEcon Research 
 
-<!-- !!! quote
-    In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects -->
+!!! quote
+    In light of eastern and western science
+
+    The renaissance of Aristotle and Mencius
+
 
 **Program Sites**: <https://insight.sciecon.org/articles/Research/>
 
@@ -39,9 +42,11 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ## SciEcon Innovate
 
-<!-- !!! quote
-    In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects -->
+!!! quote
+    In light of eastern and western innovation
+    
+    The renaissance of The Four Great Inventions and Industrial Revolution
+
 
 **Program Sites**: <https://insight.sciecon.org/articles/Innovate/>
 
@@ -58,9 +63,11 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 
 ## SciEcon Insights
 
-<!-- !!! quote
-    In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects -->
+!!! quote
+    In light of eastern and western literature
+
+    The renaissance of the four great classic Chinese novels and Shakespeare’s Four Tragedies
+
 
 **Program Sites**: <https://insight.sciecon.org/>
 
@@ -74,9 +81,11 @@ SciEcon Insights aims to spread frontier knowledge and findings, promote convers
 
 ## SciEcon Sustainability 
 
-<!-- !!! quote
-    In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects -->
+!!! quote
+    In light of eastern and western intelligence
+
+    The renaissance of Lao Tzu and Adam Smith
+
 
 **Current Executive Chair**: Lewis Tian
 
@@ -90,9 +99,11 @@ Event Series (To be launched): `tutorial`, `workshop`, and `research program` to
 
 ## SciEcon Supertalent
 
-<!-- !!! quote
-    In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects -->
+!!! quote
+    In light of eastern and western education
+
+    The renaissance of Confucius and Socrates
+
 
 **Current Executive Chair**: Tianyu Wu
 
@@ -106,9 +117,11 @@ Event Series (To be launched): `Internship` on academic and industry collaborati
 
 ## SciEcon Creation
 
-<!-- !!! quote
-    In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects -->
+!!! quote
+    In light of eastern and western talent
+
+    The renaissance of Da Vinci and Lupin
+
 
 **Current Executive Chairs**: Yixuan Li, Zesen Zhuang
 
@@ -122,9 +135,11 @@ Event Series (To be launched): `SciEcon Design`,  `NFT collections` of AI genera
 
 ## SciEcon Resources
 
-<!-- !!! quote
-    In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects -->
+!!! quote
+    In light of eastern and western eloquence
+    
+    The renaissance of Mo Tzu and Demosthenes
+
 
 **Current Executing Chairs**: Ziliang (Lewis) Tian, Zesen Zhuang, Tianyu Wu, Zichao Chen, Yufan Zhang
 
@@ -136,9 +151,10 @@ SciEcon provides comprehensive resources to support research, innovation, and le
 
 ## SciEcon Lab Incubator Program
 
-<!-- !!! quote
+!!! quote
     In light of eastern and western philosophy
-    The renaissance of Plato’s Symposium (Sympósion) and Wang Xizhi’s (王羲之) Orchid Pavilion Preface (蘭亭序). -->
+    
+    The renaissance of Plato’s Symposium (Sympósion) and Wang Xizhi’s (王羲之) Orchid Pavilion Preface (蘭亭序).
 
 **Current Executive Chairs**: Zichao Chen and Yufan Zhang
 
