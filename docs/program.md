@@ -2,11 +2,12 @@
 
 ## SciEcon AMA
 
-!!! quote
+<!-- !!! quote
     In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects
 
-**Program Sites**: [separate github and fleek page ]
+    The renaissance of Plato’s Republic and Confucius Analects -->
+
+**Program Sites**: <https://insight.sciecon.org/articles/AMA/>
 
 **Current Executive Chair**: Jiasheng (Ray) Zhu
 
@@ -20,13 +21,15 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 ## SciEcon Research 
 
-!!! quote
+<!-- !!! quote
     In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects
+    The renaissance of Plato’s Republic and Confucius Analects -->
 
-**Current Executive Co-Chairs**: Yinhong (William) Zhao, Ziliang (Lewis) Tian
+**Program Sites**: <https://insight.sciecon.org/articles/Research/>
 
-**Inaugural Program Co-Chairs**: Yinhong (William) Zhao, Ziliang (Lewis) Tian
+**Current Executive Co-Chairs**: Ziliang (Lewis) Tian, Zichao Chen, and Yufan Zhang
+
+**Inaugural Program Co-Chairs**: Ziliang (Lewis) Tian
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
@@ -36,11 +39,13 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 ## SciEcon Innovate
 
-!!! quote
+<!-- !!! quote
     In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects
+    The renaissance of Plato’s Republic and Confucius Analects -->
 
-**Current Executive Chair**: Zesen Zhuag
+**Program Sites**: <https://insight.sciecon.org/articles/Innovate/>
+
+**Current Executive Chair**: Zesen Zhuang, Zichao Chen, and Yufan Zhang
 
 **Inaugural Program Co-Chair**: Zesen Zhuang
 
@@ -53,9 +58,11 @@ Event Series (To be launched): `tutorials` and `workshops` for innovative techno
 
 ## SciEcon Insights
 
-!!! quote
+<!-- !!! quote
     In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects
+    The renaissance of Plato’s Republic and Confucius Analects -->
+
+**Program Sites**: <https://insight.sciecon.org/>
 
 **Current Executive Chair**: Xinyu Tian
 
@@ -67,9 +74,9 @@ SciEcon Insights aims to spread frontier knowledge and findings, promote convers
 
 ## SciEcon Sustainability 
 
-!!! quote
+<!-- !!! quote
     In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects
+    The renaissance of Plato’s Republic and Confucius Analects -->
 
 **Current Executive Chair**: Lewis Tian
 
@@ -83,9 +90,9 @@ Event Series (To be launched): `tutorial`, `workshop`, and `research program` to
 
 ## SciEcon Supertalent
 
-!!! quote
+<!-- !!! quote
     In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects
+    The renaissance of Plato’s Republic and Confucius Analects -->
 
 **Current Executive Chair**: Tianyu Wu
 
@@ -99,9 +106,9 @@ Event Series (To be launched): `Internship` on academic and industry collaborati
 
 ## SciEcon Creation
 
-!!! quote
+<!-- !!! quote
     In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects
+    The renaissance of Plato’s Republic and Confucius Analects -->
 
 **Current Executive Chairs**: Yixuan Li, Zesen Zhuang
 
@@ -115,13 +122,13 @@ Event Series (To be launched): `SciEcon Design`,  `NFT collections` of AI genera
 
 ## SciEcon Resources
 
-!!! quote
+<!-- !!! quote
     In light of eastern and western philosophy
-    The renaissance of Plato’s Republic and Confucius Analects
+    The renaissance of Plato’s Republic and Confucius Analects -->
 
-**Current Executing Chairs**: Ziliang (Lewis) Tian, Yinhong (William) Zhao
+**Current Executing Chairs**: Ziliang (Lewis) Tian, Zesen Zhuang, Tianyu Wu, Zichao Chen, Yufan Zhang
 
-**Inaugural Program Co-Chairs**: Ziliang (Lewis) Tian, Yinhong (William) Zhao
+**Inaugural Program Co-Chairs**: Ziliang (Lewis) Tian, Zesen Zhuang, Tianyu Wu
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
@@ -129,9 +136,9 @@ SciEcon provides comprehensive resources to support research, innovation, and le
 
 ## SciEcon Lab Incubator Program
 
-!!! quote
+<!-- !!! quote
     In light of eastern and western philosophy
-    The renaissance of Plato’s Symposium (Sympósion) and Wang Xizhi’s (王羲之) Orchid Pavilion Preface (蘭亭序).
+    The renaissance of Plato’s Symposium (Sympósion) and Wang Xizhi’s (王羲之) Orchid Pavilion Preface (蘭亭序). -->
 
 **Current Executive Chairs**: Zichao Chen and Yufan Zhang
 
@@ -139,7 +146,7 @@ SciEcon provides comprehensive resources to support research, innovation, and le
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
-SciEcon Lab Incubator Program is a philanthropy event that aims at cultivating research, innovation, and leadership among young scholars by incubating exploratory studies and symposiums on cutting-edge topics. Young scholars can join the program by proposing a research abstract in scopes and even applying for leadership positions. Research affiliates aim to publish insightful articles that identify research directions. In addition, Lab leaders shall contribute significantly to pushing the milestones, hosting the symposium, and publishing documentaries. We invite pioneers on the chosen cutting-edge topic as symposium panelists who resembles distinguished scholarship in all three aspects of research, innovation, and leadership. We expect to facilitate a conversation between young scholars and advanced panelists for future collaborations that benefit generations to come.
+**SciEcon Lab Incubator Program** is a philanthropy event that aims at cultivating research, innovation, and leadership among young scholars by incubating exploratory studies and symposiums on cutting-edge topics. Young scholars can join the program by proposing a research abstract in scopes and even applying for leadership positions. Research affiliates aim to publish insightful articles that identify research directions. In addition, Lab leaders shall contribute significantly to pushing the milestones, hosting the symposium, and publishing documentaries. We invite pioneers on the chosen cutting-edge topic as symposium panelists who resembles distinguished scholarship in all three aspects of research, innovation, and leadership. We expect to facilitate a conversation between young scholars and advanced panelists for future collaborations that benefit generations to come.
 
 **Event Series**:
 

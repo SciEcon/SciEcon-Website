@@ -22,7 +22,7 @@ theme:
 nav:
   - Home: index.md
   - Program: Program.md
-  - Spotlight: Spotlight.md
+  # - Spotlight: Spotlight.md
   - Resources: Resources.md
   - "SciEcon Hub": Hub.md
   - "About Us": About.md
@@ -43,3 +43,5 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+copyright: Copyright &copy; 2021 - 2022 SciEcon CIC, Hosted on IPFS

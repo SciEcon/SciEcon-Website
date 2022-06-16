@@ -8,9 +8,9 @@
 
 SciEcon CIC is an NPO registered in the UK. SciEcon exists to:
 
-- cultivate an integrated talent of researcher, engineer, entrepreneur, investor, philanthropist, and beyond
+- Cultivate an integrated talent of researcher, engineer, entrepreneur, investor, philanthropist, and beyond
 - Nurture leadership through focusing on interdisciplinary research, the interplay between teaching, research, and practice, and conversation between intellectuals
-- host educational events such as interdisciplinary seminars, symposiums, conferences for a hub of global students, researchers, scholars, practitioners, and beyond
+- Host educational events such as interdisciplinary seminars, symposiums, conferences for a hub of global students, researchers, scholars, practitioners, and beyond
 
 ## Our Programs
 
