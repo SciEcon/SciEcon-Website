@@ -2,6 +2,11 @@
 
 ## Core Team Members
 
+!!! quote "Motto in light of eastern and western philosophy"
+    Form vs. Matter?
+
+    君子不器
+
 <div class="grid-container">
     <figure><img id="luyao" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/luyao.jpg" onmouseover="luyaoHover();" onmouseout="luyaoOffHover();" width="200" /><figurecaption>Prof. Luyao Zhang</figurecaption></figure>
     <figure><img id="yulin" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yulin.jpg" onmouseover="yulinHover();" onmouseout="yulinOffHover();" width="200" /><figurecaption>Prof. Luyao Zhang</figurecaption></figure>
@@ -14,6 +19,9 @@
     <figure><img id="zichao" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zichao.jpg" onmouseover="zichaoHover();" onmouseout="zichaoOffHover();" width="200" /><figurecaption>Zichao Chen</figurecaption></figure>
     <figure><img id="yufan" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yufan.png" onmouseover="yufanHover();" onmouseout="yufanOffHover();" width="200" /><figurecaption>Yufan Zhang</figurecaption></figure>
 </div>
+
+!!! note
+    *Hover your mouse on each avatars to see our NFTs*
 
 <style>
 .grid-container {
