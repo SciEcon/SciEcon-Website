@@ -9,8 +9,8 @@
 
 <div class="grid-container">
     <figure><img id="luyao" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/luyao.jpg" onmouseover="luyaoHover();" onmouseout="luyaoOffHover();" width="200" /><figurecaption>Prof. Luyao Zhang</figurecaption></figure>
-    <figure><img id="yulin" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yulin.jpg" onmouseover="yulinHover();" onmouseout="yulinOffHover();" width="200" /><figurecaption>Prof. Luyao Zhang</figurecaption></figure>
-    <figure><img id="jiasheng" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jiasheng.png" onmouseover="jiashengHover();" onmouseout="jiashengOffHover();" width="200" /><figurecaption>Prof. Yulin Liu</figurecaption></figure>
+    <figure><img id="yulin" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yulin.jpg" onmouseover="yulinHover();" onmouseout="yulinOffHover();" width="200" /><figurecaption>Prof. Yulin Liu</figurecaption></figure>
+    <figure><img id="jiasheng" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jiasheng.png" onmouseover="jiashengHover();" onmouseout="jiashengOffHover();" width="200" /><figurecaption>Ray Zhu</figurecaption></figure>
     <figure><img id="xinyu" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/xinyu.jpg" onmouseover="xinyuHover();" onmouseout="xinyuOffHover();" width="200" /><figurecaption>Xinyu Tian</figurecaption></figure>
     <figure><img id="tianyu" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/tianyu.jpg" onmouseover="tianyuHover();" onmouseout="tianyuOffHover();" width="200" /><figurecaption>Tianyu Wu</figurecaption></figure>
     <figure><img id="yixuan" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg" onmouseover="yixuanHover();" onmouseout="yixuanOffHover();" width="200" /><figurecaption>Yixuan Li</figurecaption></figure>
