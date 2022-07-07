@@ -1,6 +1,6 @@
 # About Us
 
-## Core Team Members
+## Inaugural Team
 
 !!! quote "Motto in light of eastern and western philosophy"
     Form vs. Matter?
@@ -8,16 +8,56 @@
     君子不器
 
 <div class="grid-container">
-    <figure><img id="luyao" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/luyao.jpg" onmouseover="luyaoHover();" onmouseout="luyaoOffHover();" width="200" /><figurecaption>Prof. Luyao Zhang</figurecaption></figure>
-    <figure><img id="yulin" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yulin.jpg" onmouseover="yulinHover();" onmouseout="yulinOffHover();" width="200" /><figurecaption>Prof. Yulin Liu</figurecaption></figure>
-    <figure><img id="jiasheng" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jiasheng.png" onmouseover="jiashengHover();" onmouseout="jiashengOffHover();" width="200" /><figurecaption>Ray Zhu</figurecaption></figure>
-    <figure><img id="xinyu" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/xinyu.jpg" onmouseover="xinyuHover();" onmouseout="xinyuOffHover();" width="200" /><figurecaption>Xinyu Tian</figurecaption></figure>
-    <figure><img id="tianyu" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/tianyu.jpg" onmouseover="tianyuHover();" onmouseout="tianyuOffHover();" width="200" /><figurecaption>Tianyu Wu</figurecaption></figure>
-    <figure><img id="yixuan" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg" onmouseover="yixuanHover();" onmouseout="yixuanOffHover();" width="200" /><figurecaption>Yixuan Li</figurecaption></figure>
-    <figure><img id="ziliang" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ziliang.jpg" onmouseover="ziliangHover();" onmouseout="ziliangOffHover();" width="200" /><figurecaption>Ziliang Tian</figurecaption></figure>
-    <figure><img id="zesen" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zesen.jpg" onmouseover="zesenHover();" onmouseout="zesenOffHover();" width="200" /><figurecaption>Zesen Zhuang</figurecaption></figure>
-    <figure><img id="zichao" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zichao.jpg" onmouseover="zichaoHover();" onmouseout="zichaoOffHover();" width="200" /><figurecaption>Zichao Chen</figurecaption></figure>
-    <figure><img id="yufan" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yufan.png" onmouseover="yufanHover();" onmouseout="yufanOffHover();" width="200" /><figurecaption>Yufan Zhang</figurecaption></figure>
+    <figure><img id="luyao"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/luyao.jpg"
+            onmouseover="luyaoHover();" onmouseout="luyaoOffHover();" width="200" />
+        <figurecaption>Prof. Luyao Zhang</figurecaption>
+    </figure>
+    <figure><img id="yulin"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yulin.jpg"
+            onmouseover="yulinHover();" onmouseout="yulinOffHover();" width="200" />
+        <figurecaption>Prof. Yulin Liu</figurecaption>
+    </figure>
+    <figure><img id="jiasheng"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jiasheng.png"
+            onmouseover="jiashengHover();" onmouseout="jiashengOffHover();" width="200" />
+        <figurecaption>Ray Zhu</figurecaption>
+    </figure>
+    <figure><img id="xinyu"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/xinyu.jpg"
+            onmouseover="xinyuHover();" onmouseout="xinyuOffHover();" width="200" />
+        <figurecaption>Xinyu Tian</figurecaption>
+    </figure>
+    <figure><img id="tianyu"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/tianyu.jpg"
+            onmouseover="tianyuHover();" onmouseout="tianyuOffHover();" width="200" />
+        <figurecaption>Tianyu Wu</figurecaption>
+    </figure>
+    <figure><img id="yixuan"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg"
+            onmouseover="yixuanHover();" onmouseout="yixuanOffHover();" width="200" />
+        <figurecaption>Yixuan Li</figurecaption>
+    </figure>
+    <figure><img id="ziliang"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ziliang.jpg"
+            onmouseover="ziliangHover();" onmouseout="ziliangOffHover();" width="200" />
+        <figurecaption>Ziliang Tian</figurecaption>
+    </figure>
+    <figure><img id="zesen"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zesen.jpg"
+            onmouseover="zesenHover();" onmouseout="zesenOffHover();" width="200" />
+        <figurecaption>Zesen Zhuang</figurecaption>
+    </figure>
+    <figure><img id="zichao"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zichao.jpg"
+            onmouseover="zichaoHover();" onmouseout="zichaoOffHover();" width="200" />
+        <figurecaption>Zichao Chen</figurecaption>
+    </figure>
+    <figure><img id="yufan"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yufan.png"
+            onmouseover="yufanHover();" onmouseout="yufanOffHover();" width="200" />
+        <figurecaption>Yufan Zhang</figurecaption>
+    </figure>
 </div>
 
 !!! note
@@ -113,6 +153,8 @@ let yulinHover = () => {
 **Title**: Founding President (Industry Primary, Academia Secondary)
 
 **LinkedIn**: [https://www.linkedin.com/in/yulineth/](https://www.linkedin.com/in/yulineth/)
+
+**Twitter** [https://twitter.com/YulinLiu20](https://twitter.com/YulinLiu20)
 
 **Personal Website**: [https://www.yulinliu.me/](https://www.yulinliu.me/)
 
