@@ -154,7 +154,7 @@ let yulinHover = () => {
 
 **LinkedIn**: [https://www.linkedin.com/in/yulineth/](https://www.linkedin.com/in/yulineth/)
 
-**Twitter** [https://twitter.com/YulinLiu20](https://twitter.com/YulinLiu20)
+**Twitter**: [https://twitter.com/YulinLiu20](https://twitter.com/YulinLiu20)
 
 **Personal Website**: [https://www.yulinliu.me/](https://www.yulinliu.me/)
 
