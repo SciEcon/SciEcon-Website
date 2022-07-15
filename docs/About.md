@@ -3,9 +3,9 @@
 ## Inaugural Team
 
 !!! quote "Motto in light of eastern and western philosophy"
-    Form vs. Matter?
+    Aristotle and Plato: form or matter? 
 
-    君子不器
+    “君子不器”—《论语·为政》
 
 <div class="grid-container">
     <figure><img id="luyao"
@@ -79,10 +79,109 @@
   width: 200px;
   height: 200px;
 }
+
+/* Style the Image Used to Trigger the Modal */
+#myImg {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption {
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+  from {transform:scale(0)}
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
+}
 </style> 
 
 <script>
+// Get the modal
+var modal = document.getElementById("myModal");
 
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById("myImg");
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
 </script>
 
 ## People
@@ -110,7 +209,7 @@ let luyaoHover = () => {
 <div markdown style="width: 70%;">
 **Name**: Luyao Zhang | 张露瑶
 
-**Title**: Founding President (Academia Primary, Industry Secondary)
+**Title**: Founding President
 
 **LinkedIn**: [https://www.linkedin.com/in/sunshineluyao/](https://www.linkedin.com/in/sunshineluyao/)
 
@@ -159,9 +258,13 @@ let yulinHover = () => {
 **Personal Website**: [https://www.yulinliu.me/](https://www.yulinliu.me/)
 
 !!! quote "Motto in light of eastern and western philosophy"
-    Brightness derives from day’s and night’s deduction.
+    Dao dejing: The Dao produced One; One produced Two; Two produced Three; Three produced All things.
 
-    日月相推而明生焉
+    "道生一，一生二，二生三，三生萬物" —《道德经》
+
+    Spinoza: Passion without reason is blind; Reason without passion is dead.
+
+    天人合一，道法自然 —斯宾诺莎
 
 </div>
 </div>
