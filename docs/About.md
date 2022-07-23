@@ -8,56 +8,146 @@
     “君子不器”—《论语·为政》
 
 <div class="grid-container">
-    <figure><img id="luyao"
-            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/luyao.jpg"
-            onmouseover="luyaoHover();" onmouseout="luyaoOffHover();" width="200" />
+    <figure><img class="origin-img" id="luyao"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/luyao.jpg"width="200" />
         <figurecaption>Prof. Luyao Zhang</figurecaption>
     </figure>
-    <figure><img id="yulin"
-            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yulin.jpg"
-            onmouseover="yulinHover();" onmouseout="yulinOffHover();" width="200" />
+    <figure><img class="origin-img" id="yulin"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yulin.jpg"width="200" />
         <figurecaption>Prof. Yulin Liu</figurecaption>
     </figure>
-    <figure><img id="jiasheng"
-            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jiasheng.png"
-            onmouseover="jiashengHover();" onmouseout="jiashengOffHover();" width="200" />
+    <figure><img class="origin-img" id="jiasheng"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/jiasheng.png"width="200" />
         <figurecaption>Ray Zhu</figurecaption>
     </figure>
-    <figure><img id="xinyu"
-            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/xinyu.jpg"
-            onmouseover="xinyuHover();" onmouseout="xinyuOffHover();" width="200" />
+    <figure><img class="origin-img" id="xinyu"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/xinyu.jpg"width="200" />
         <figurecaption>Xinyu Tian</figurecaption>
     </figure>
-    <figure><img id="tianyu"
-            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/tianyu.jpg"
-            onmouseover="tianyuHover();" onmouseout="tianyuOffHover();" width="200" />
+    <figure><img class="origin-img" id="tianyu"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/tianyu.jpg"width="200" />
         <figurecaption>Tianyu Wu</figurecaption>
     </figure>
-    <figure><img id="yixuan"
-            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg"
-            onmouseover="yixuanHover();" onmouseout="yixuanOffHover();" width="200" />
+    <figure><img class="origin-img" id="yixuan"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg"width="200" />
         <figurecaption>Yixuan Li</figurecaption>
     </figure>
-    <figure><img id="ziliang"
-            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ziliang.jpg"
-            onmouseover="ziliangHover();" onmouseout="ziliangOffHover();" width="200" />
+    <figure><img class="origin-img" id="ziliang"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ziliang.jpg"width="200" />
         <figurecaption>Ziliang Tian</figurecaption>
     </figure>
-    <figure><img id="zesen"
-            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zesen.jpg"
-            onmouseover="zesenHover();" onmouseout="zesenOffHover();" width="200" />
+    <figure><img class="origin-img" id="zesen"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zesen.jpg"width="200" />
         <figurecaption>Zesen Zhuang</figurecaption>
     </figure>
-    <figure><img id="zichao"
-            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zichao.jpg"
-            onmouseover="zichaoHover();" onmouseout="zichaoOffHover();" width="200" />
+    <figure><img class="origin-img" id="zichao"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zichao.jpg"width="200" />
         <figurecaption>Zichao Chen</figurecaption>
     </figure>
-    <figure><img id="yufan"
-            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yufan.png"
-            onmouseover="yufanHover();" onmouseout="yufanOffHover();" width="200" />
+    <figure><img class="origin-img" id="yufan"
+            src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yufan.png"width="200" />
         <figurecaption>Yufan Zhang</figurecaption>
     </figure>
+</div>
+
+<!-- Modals -->
+<div id="luyao-modal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="luyao-modal-img">
+</div>
+
+<!-- Modals -->
+<div id="yulin-modal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="yulin-modal-img">
+</div>
+
+<!-- Modals -->
+<div id="jiasheng-modal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="jiasheng-modal-img">
+</div>
+
+<!-- Modals -->
+<div id="xinyu-modal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="xinyu-modal-img">
+</div>
+
+<!-- Modals -->
+<div id="tianyu-modal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="tianyu-modal-img">
+</div>
+
+<!-- Modals -->
+<div id="yuxuan-modal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="yuxuan-modal-img">
+</div>
+
+<!-- Modals -->
+<div id="ziliang-modal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="ziliang-modal-img">
+</div>
+
+<!-- Modals -->
+<div id="zesen-modal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="zesen-modal-img">
+</div>
+
+<!-- Modals -->
+<div id="zichao-modal" class="modal">
+
+  <!-- The Close Button -->
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="zichao-modal-img">
+  <span class="close">&times;</span>
+</div>
+
+<!-- Modals -->
+<div id="yufan-modal" class="modal">
+
+  <!-- The Close Button -->
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="yufan-modal-img">
+  <span class="close">&times;</span>
 </div>
 
 !!! note
@@ -81,13 +171,13 @@
 }
 
 /* Style the Image Used to Trigger the Modal */
-#myImg {
-  border-radius: 5px;
+.origin-img {
+  border-radius: 20px;
   cursor: pointer;
   transition: 0.3s;
 }
 
-#myImg:hover {opacity: 0.7;}
+.origin-img:hover {opacity: 0.7;}
 
 /* The Modal (background) */
 .modal {
@@ -128,6 +218,8 @@
 .modal-content, #caption {
   animation-name: zoom;
   animation-duration: 0.6s;
+  width: 600px;
+  height: 600px;
 }
 
 @keyframes zoom {
@@ -137,9 +229,10 @@
 
 /* The Close Button */
 .close {
-  position: absolute;
-  top: 15px;
-  right: 35px;
+  /* position: absolute; */
+  /* top: 15px;
+  right: 35px; */
+  margin: auto;
   color: #f1f1f1;
   font-size: 40px;
   font-weight: bold;
@@ -162,25 +255,69 @@
 </style> 
 
 <script>
-// Get the modal
-var modal = document.getElementById("myModal");
+let modalNames = ['luyao-modal', 'yulin-modal', 'jiasheng-modal', 'xinyu-modal', 'tianyu-modal', 'yixuan-modal', 'ziliang-modal', 'zesen-modal', 'zichao-modal', 'yufan-modal'];
 
-// Get the image and insert it inside the modal - use its "alt" text as a caption
-var img = document.getElementById("myImg");
-var modalImg = document.getElementById("img01");
-var captionText = document.getElementById("caption");
-img.onclick = function(){
-  modal.style.display = "block";
-  modalImg.src = this.src;
-  captionText.innerHTML = this.alt;
+let modalImgNames = ['luyao-modal-img', 'yulin-modal-img', 'jiasheng-modal-img', 'xinyu-modal-img', 'tianyu-modal-img', 'yixuan-modal-img', 'ziliang-modal-img', 'zesen-modal-img', 'zichao-modal-img', 'yufan-modal-img'];
+
+let nftLinks = [
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/小篆_道_Luyao%20Zhang.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_明_Yulin%20Liu.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_谢_Ray%20Zhu.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/隶书_宇_Michelle%20Tian.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/隶书_和_Tianyu%20Wu.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_救_Austen%20Li.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/行书_乐_Lewis%20Tian.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/小篆_福_Zesen%20Zhuang.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_超_Zichao%20Chen.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_林_Yufan%20Zhang.png'
+]
+
+let imgNames = ['luyao', 'yulin', 'jiasheng', 'xinyu', 'tianyu', 'yixuan', 'ziliang', 'zesen', 'zichao', 'yufan'];
+
+var images = [];
+function preload() {
+    for (var i = 0; i < arguments.length; i++) {
+        images[i] = new Image();
+        images[i].src = preload.arguments[i];
+        console.log(images[i]);
+    }
 }
 
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
+//-- usage --//
+preload(
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/小篆_道_Luyao%20Zhang.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_明_Yulin%20Liu.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_谢_Ray%20Zhu.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/隶书_宇_Michelle%20Tian.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/隶书_和_Tianyu%20Wu.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_救_Austen%20Li.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/行书_乐_Lewis%20Tian.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/小篆_福_Zesen%20Zhuang.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_超_Zichao%20Chen.png',
+    'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_林_Yufan%20Zhang.png'
+)
 
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
+for (let i = 0; i < 10; i++) {
+    var modal = document.getElementById(modalNames[i]);
+    var img = document.getElementById(imgNames[i]);
+    var modalImg = document.getElementById(modalImgNames[i]);
+    img.onclick = function(){
+        modal.style.display = "flex";
+        modal.style.flexDirection = "column";
+        modalImg.src = nftLinks[i];
+    }
+
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close");
+    for (let i = 0; i < 10; i++)
+    {
+        span[i].onclick = function() {
+        modal.style.display = "none";
+        }
+    }
+
+    // When the user clicks on <span> (x), close the modal
+    
 }
 </script>
 
