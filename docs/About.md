@@ -499,64 +499,6 @@ let tianyuHover = () => {
 
 ---
 <div style="display: flex;" markdown>
-<img id="yixuan" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg" onmouseover="yixuanHover();" onmouseout="yixuanOffHover();" width="200" />
-<script>
-let yixuanOffHover = () => {
-    document.getElementById('yixuan').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg');
-};
-
-let yixuanHover = () => {
-    document.getElementById('yixuan').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_救_Austen%20Li.png');
-};
-</script>
-<div style="width: 5%">
-</div>
-<div markdown style="width: 70%;">
-**Name**: Yixuan Li | 黎以萱
-
-**Title**: Honour Chair of Creativity
-
-**LinkedIn**: [https://www.linkedin.com/in/yixuan-li-269356192/](https://www.linkedin.com/in/yixuan-li-269356192/)
-
-!!! quote "Motto in light of eastern and western philosophy"
-    Live life. Learn lessons. Liberate yourself.
-
-    生活。学习。解放自我。
-
-
-</div>
-</div>
-
----
-<div style="display: flex;" markdown>
-<img id="ziliang" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ziliang.jpg" onmouseover="ziliangHover();" onmouseout="ziliangOffHover();" width="200" />
-<script>
-let ziliangOffHover = () => {
-    document.getElementById('ziliang').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ziliang.jpg');
-};
-
-let ziliangHover = () => {
-    document.getElementById('ziliang').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/行书_乐_Lewis%20Tian.png');
-};
-</script>
-<div style="width: 5%">
-</div>
-<div markdown style="width: 70%;">
-**Name**: Ziliang (Lewis) Tian
-
-**Title**: Honour Chair of Sustainability and Social Impact
-
-**LinkedIn**: [https://www.linkedin.com/in/lewistian/](https://www.linkedin.com/in/lewistian/)
-
-!!! quote "Motto in light of eastern and western philosophy"
-    Seeking the best version of self
-
-    寻找最好的自己
-</div>
-</div>
-
----
-<div style="display: flex;" markdown>
 <img id="zesen" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/zesen.jpg" onmouseover="zesenHover();" onmouseout="zesenOffHover();" width="200" />
 <script>
 let zesenOffHover = () => {
@@ -641,6 +583,67 @@ let yufanHover = () => {
 
 </div>
 </div>
+
+#### Honour E-Boards
+
+---
+<div style="display: flex;" markdown>
+<img id="yixuan" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg" onmouseover="yixuanHover();" onmouseout="yixuanOffHover();" width="200" />
+<script>
+let yixuanOffHover = () => {
+    document.getElementById('yixuan').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yixuan.jpg');
+};
+
+let yixuanHover = () => {
+    document.getElementById('yixuan').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/楷体_救_Austen%20Li.png');
+};
+</script>
+<div style="width: 5%">
+</div>
+<div markdown style="width: 70%;">
+**Name**: Yixuan Li | 黎以萱
+
+**Title**: Honour Chair of Creativity
+
+**LinkedIn**: [https://www.linkedin.com/in/yixuan-li-269356192/](https://www.linkedin.com/in/yixuan-li-269356192/)
+
+!!! quote "Motto in light of eastern and western philosophy"
+    Live life. Learn lessons. Liberate yourself.
+
+    生活。学习。解放自我。
+
+
+</div>
+</div>
+
+---
+<div style="display: flex;" markdown>
+<img id="ziliang" src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ziliang.jpg" onmouseover="ziliangHover();" onmouseout="ziliangOffHover();" width="200" />
+<script>
+let ziliangOffHover = () => {
+    document.getElementById('ziliang').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/ziliang.jpg');
+};
+
+let ziliangHover = () => {
+    document.getElementById('ziliang').setAttribute('src', 'https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/nft/行书_乐_Lewis%20Tian.png');
+};
+</script>
+<div style="width: 5%">
+</div>
+<div markdown style="width: 70%;">
+**Name**: Ziliang (Lewis) Tian
+
+**Title**: Honour Chair of Sustainability and Social Impact
+
+**LinkedIn**: [https://www.linkedin.com/in/lewistian/](https://www.linkedin.com/in/lewistian/)
+
+!!! quote "Motto in light of eastern and western philosophy"
+    Seeking the best version of self
+
+    寻找最好的自己
+</div>
+</div>
+
 
 ### SciEcon Program
 
