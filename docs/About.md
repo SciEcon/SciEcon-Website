@@ -514,7 +514,7 @@ let yixuanHover = () => {
 <div markdown style="width: 70%;">
 **Name**: Yixuan Li | 黎以萱
 
-**Title**: Interim Chair of Creativity
+**Title**: Honour Chair of Creativity
 
 **LinkedIn**: [https://www.linkedin.com/in/yixuan-li-269356192/](https://www.linkedin.com/in/yixuan-li-269356192/)
 
@@ -544,7 +544,7 @@ let ziliangHover = () => {
 <div markdown style="width: 70%;">
 **Name**: Ziliang (Lewis) Tian
 
-**Title**: Interim Chair of Sustainability and Social Impact
+**Title**: Honour Chair of Sustainability and Social Impact
 
 **LinkedIn**: [https://www.linkedin.com/in/lewistian/](https://www.linkedin.com/in/lewistian/)
 
