@@ -395,13 +395,11 @@ let yulinHover = () => {
 **Personal Website**: [https://www.yulinliu.me/](https://www.yulinliu.me/)
 
 !!! quote "Motto in light of eastern and western philosophy"
-    Dao dejing: The Dao produced One; One produced Two; Two produced Three; Three produced All things.
+    
+    Brightness derives from day’s and night’s deduction.
+    
+    日月相推而明生焉
 
-    "道生一，一生二，二生三，三生萬物" —《道德经》
-
-    Spinoza: Passion without reason is blind; Reason without passion is dead.
-
-    天人合一，道法自然 —斯宾诺莎
 
 </div>
 </div>

@@ -6,6 +6,10 @@
 ![logo](assets/logo-light-mode-v1.png){ width="150" }
 </figure>
 
+!!! note "Our Philosophy"
+    A wise person shall not be confined by her work and profession. At SciEcon, we gather together talents for dialogue, scientific research, education, and incubation in an open and inclusive way. We explore the mysteries of the universe, the subtleties of history, the trends of economic development, the advancement of science and technology, the versatility of humanities, and the profoundness of philosophy, for the sake of life, for the people, for the sages of the past, and for the sake of peace.
+                                                                                         —--------Prof. Dr. Yulin Liu
+
 SciEcon CIC is an NPO registered in the UK. SciEcon exists to:
 
 - Cultivate an integrated talent of researcher, engineer, entrepreneur, investor, philanthropist, and beyond
