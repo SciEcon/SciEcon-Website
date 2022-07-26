@@ -386,7 +386,7 @@ let yulinHover = () => {
 <div markdown style="width: 70%;">
 **Name**: Yulin Liu | 刘玉林
 
-**Title**: Founding President (Industry Primary, Academia Secondary)
+**Title**: Founding President
 
 **LinkedIn**: [https://www.linkedin.com/in/yulineth/](https://www.linkedin.com/in/yulineth/)
 
@@ -396,9 +396,15 @@ let yulinHover = () => {
 
 !!! quote "Motto in light of eastern and western philosophy"
     
-    Brightness derives from day’s and night’s deduction.
+    “上善若水，水利万物而不争” —《道德经》
     
-    日月相推而明生焉
+    The noblest virtue is like water, which nourishes all things without contending with them. 
+
+
+    “日往则月来，月往则日来，日月相推而明生焉” —《易·系辞》
+    
+    The sun rises while the moon sets. The moon rises while the sun sets. Brightness derives from day’s and night’s deduction.
+
 
 
 </div>
@@ -517,8 +523,7 @@ let zesenHover = () => {
 **LinkedIn**: [https://www.linkedin.com/in/zesen-zhuang-624591217/](https://www.linkedin.com/in/zesen-zhuang-624591217/)
 
 **Personal Website**: [https://www.crinstaniev.com](https://www.crinstaniev.com)
-
-!!! quote "Motto in light of eastern and western philosophy"
+in"
     Preserve your dignity as a nobody; promote the social wellfare as a somebody.
 
     穷则独善其身，达则兼济天下
