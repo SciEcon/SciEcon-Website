@@ -521,6 +521,8 @@ let zesenHover = () => {
 
 **Personal Website**: [https://www.crinstaniev.com](https://www.crinstaniev.com)
 in"
+
+!!! quote "Motto in light of eastern and western philosophy"
     Preserve your dignity as a nobody; promote the social wellfare as a somebody.
 
     穷则独善其身，达则兼济天下
