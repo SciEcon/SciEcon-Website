@@ -17,15 +17,16 @@ theme:
     - navigation.indexes
     - navigation.top
     - toc.integrate
-
+    - header.autohide
+    - announce.dismiss
 
 nav:
   - Home: index.md
   - Program: Program.md
-  # - Spotlight: Spotlight.md
-  - Resources: Resources.md
-  - "SciEcon Hub": Hub.md
+  - Spotlight: Spotlight.md
+  - Resource: Resources.md
   - "About Us": About.md
+  - "SciEcon Hub": Hub.md
 
 markdown_extensions:
   - admonition

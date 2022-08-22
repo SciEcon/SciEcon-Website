@@ -4,6 +4,9 @@
 
 <figure markdown>
 ![logo](assets/logo-light-mode-v1.png){ width="150" }
+<figcaption>
+SciEcon CIC Logo
+</figcaption>
 </figure>
 
 ## Our Philosophy
@@ -19,7 +22,7 @@ SciEcon CIC is an NPO registered in the UK. SciEcon exists to:
 - Nurture leadership through focusing on interdisciplinary research, the interplay between teaching, research, and practice, and conversation between intellectuals
 - Host educational events such as interdisciplinary seminars, symposiums, conferences for a hub of global students, researchers, scholars, practitioners, and beyond
 
-## Our Programs
+## [Our Programs](./Program.md)
 
 !!! note ""
 
@@ -27,39 +30,18 @@ SciEcon CIC is an NPO registered in the UK. SciEcon exists to:
 
     <p style="text-align: right">―Inaugural Programs Address by  Prof. Luyao Zhang </p>
 
-## Spotlight
+## [Spotlight](./Spotlight.md)
 
-SciEcon hosts events to spotlight intellectual conversations for pioneers in academia and industry. Our event include AMA interviews, seminars, symposiums, conferences, and beyond. We create event documentaries and creative films as part of industry 4.0 Open Educational Resource (OER) publication initiatives. 
+SciEcon hosts events to spotlight intellectual conversations for pioneers in academia and industry. Our event include AMA interviews, seminars, symposiums, conferences, and beyond. We create event documentaries and creative films as part of industry 4.0 Open Educational Resource (OER) publication initiatives.
 
-## SciEcon Hub
+## [Resources](./Resources.md)
 
-Join our community on multiple platforms to partake in and contribute to intellectual conversation ever since and ever after:
+SciEcon Resources is to collect and share useful research and innovate resources, not only for reference and use within SciEcon but also for communication and sharing with all researchers and industry experts. Both the members at SciEcon CIC and also the public audience can share, upload, and use the recourses in SciEcon Resources Database. SciEcon E-Board is responsible to review and approve the newly added content in the database on a regular basis.
 
-- [x] LinkedIn: <https://www.linkedin.com/company/sciecon-cic>
-- [x] Twitter: <https://twitter.com/SciEcon_CIC>
-- [x] YouTube: <https://www.youtube.com/channel/UCQOvF-D45s09FlajFkKzoOA>
-- [x] Github: <https://github.com/SciEcon>
-- [x] Facebook: <https://www.facebook.com/sciecon2022>
-- [x] Medium: <https://sciecon.medium.com>
-    - [x] SciEcon-Research:　<https://medium.com/sciecon-research>
-    - [x] SciEcon-Innovate:　<https://medium.com/sciecon-innovate>
-    - [x] SciEcon-AMA: <https://medium.com/sciecon-ama>
-- [x] WeChat (ID): SciEcon
+## [About Us](./About.md)
 
-<figure markdown>
-  ![Image title](assets/WeChat30cm.jpg){ width="300" }
-  <figcaption>SciEcon WeChat QR Code</figcaption>
-</figure>
+Please check [this page](./About.md) for more details.
 
-- [x] **Subscribe to our news letters** by joining our Google Group: 
-<https://groups.google.com/forum/#!forum/sciecon-community/join>
+## [SciEcon Hub](./Hub.md)
 
-## Find Resources
-
-SciEcon provides comprehensive resources to support research, innovation, and leadership, including literature, data, institution, and event. *Literature* includes insightful research articles; *Data* provides useful data sources for research; *Institution* includes academic and industry organizations that share our vision; *Event* gathers relevant educational events and activities that the SciEcon community recommends.
-
-## Contact Us
-
-We recommend you to join our SciEcon Hubs first and contact further after you understand our guiding philosophy and real-world practices. 
-
-If you have further interest, please send emails to: <medium@sciecon.org>.
+Feel free to join our community on multiple platforms to partake in and contribute to intellectual conversation ever since and ever after.

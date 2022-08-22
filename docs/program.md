@@ -1,5 +1,11 @@
 # Program
 
+!!! note ""
+
+    SciEcon has 9 Signature Programs in light of east and west philosophy including SciEcon AMA, Research, Innovation, Sustainability, Supertalent, Insight, Creation, Resources, and Lab Incubator Program. We create at the intersection of academic disciplines and industry practices. We develop scientific methodology to solve the problem of economics. We host intellectual conversation that inspires both profound insights and practical impacts. We gather global scholars to partake in the dear delight of east and west philosophy. The master said, “Virtue is not left to stand alone. He who practices it will have neighbors.” We are in this, all together!
+
+    <p style="text-align: right">―Inaugural Programs Address by  Prof. Luyao Zhang </p>
+
 ## SciEcon AMA
 
 !!! quote
@@ -10,9 +16,9 @@
 
 **Program Sites**: <https://insight.sciecon.org/articles/AMA/>
 
-**Current Executive Chair**: Jiasheng (Ray) Zhu
+**Current Executive Chair**: Haoyang Yu
 
-**Inaugural Program Co-Chair**: Jiasheng Zhu (Ray)
+**Inaugural Program Co-Chair**: Haoyang Yu
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
@@ -30,9 +36,9 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 **Program Sites**: <https://insight.sciecon.org/articles/Research/>
 
-**Current Executive Co-Chairs**: Ziliang (Lewis) Tian, Zichao Chen, and Yufan Zhang
+**Current Executive Co-Chairs**: Zichao Chen
 
-**Inaugural Program Co-Chairs**: Ziliang (Lewis) Tian
+**Inaugural Program Co-Chairs**: Zichao Chen
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
@@ -50,14 +56,13 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 
 **Program Sites**: <https://insight.sciecon.org/articles/Innovate/>
 
-**Current Executive Chair**: Zesen Zhuang, Zichao Chen, and Yufan Zhang
+**Current Executive Chair**: Yufan Zhang
 
-**Inaugural Program Co-Chair**: Zesen Zhuang
+**Inaugural Program Co-Chair**: Yufan Zhang
 
 **Inaugural Program Chairs**: Prof. Yulin Liu and Prof. Luyao Zhang
 
 SciEcon Innovate explores the most cutting-edge technologies and their applications in both industry and academia, with a focus on finding the most efficient pipeline for converting academic results. SciEcon Innovation will equip members with capabilities in both academia and industry to become cross-border technical talents.
-
 
 Event Series (To be launched): `tutorials` and `workshops` for innovative technologies, `developer program incubator`, `hackthon incubator`
 
@@ -87,9 +92,9 @@ SciEcon Insights aims to spread frontier knowledge and findings, promote convers
     The renaissance of Lao Tzu and Adam Smith
 
 
-**Current Executive Chair**: Lewis Tian
+**Current Executive Chair**: Zesen Zhuang and Xinyu Tian
 
-**Inaugural Program Co-Chair**: Lewis Tian
+**Inaugural Program Co-Chair**: Zesen Zhuang and Xinyu Tian
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
@@ -105,7 +110,7 @@ Event Series (To be launched): `tutorial`, `workshop`, and `research program` to
     The renaissance of Confucius and Socrates
 
 
-**Current Executive Chair**: Tianyu Wu
+**Current Executive Chair**: Tianyu Wu, Zichao Chen and Ray Zhu
 
 **Inaugural Program Co-Chair**: Tianyu Wu
 
@@ -123,9 +128,9 @@ Event Series (To be launched): `Internship` on academic and industry collaborati
     The renaissance of Da Vinci and Lupin
 
 
-**Current Executive Chairs**: Yixuan Li, Zesen Zhuang
+**Current Executive Chairs**: Zesen Zhuang and Yufan Zhang
 
-**Inaugural Program Co-Chair**: Yixuan Li
+**Inaugural Program Co-Chair**: Zesen Zhuang and Yufan Zhang
 
 **Inaugural Program Chairs**: Prof. Yulin Liu, and Prof. Luyao Zhang
 
@@ -141,9 +146,9 @@ Event Series (To be launched): `SciEcon Design`,  `NFT collections` of AI genera
     The renaissance of Mo Tzu and Demosthenes
 
 
-**Current Executing Chairs**: Ziliang (Lewis) Tian, Zesen Zhuang, Tianyu Wu, Zichao Chen, Yufan Zhang
+**Current Executing Chairs**: Yufan Zhang and Zichao Chen
 
-**Inaugural Program Co-Chairs**: Ziliang (Lewis) Tian, Zesen Zhuang, Tianyu Wu
+**Inaugural Program Co-Chairs**: Yufan Zhang and Zichao Chen
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
@@ -169,4 +174,6 @@ SciEcon provides comprehensive resources to support research, innovation, and le
 - Spring 2022, SciEcon Blockchain + Symposium
 - Autumn 2021, SciEcon NFT Symposium
 
+<!-- ## SciEcon Incubation/Genome -->
 
+[Back to Home](./index.md){ .md-button .md-button--primary }
