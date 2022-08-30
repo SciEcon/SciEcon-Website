@@ -1,6 +1,6 @@
 # About Us
 
-## Outstanding Members
+## Inaugural E-Board
 
 !!! quote "Motto in light of eastern and western philosophy"
     Aristotle and Plato: form or matter? 
