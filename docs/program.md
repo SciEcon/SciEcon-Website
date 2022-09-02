@@ -36,6 +36,8 @@ SciEcon Insights aims to spread frontier knowledge and findings, promote convers
 
 **Current Executive Chair**: Haoyang Yu
 
+**Inaugural Co-Chair**: Jiasheng (Ray) Zhu
+
 **Inaugural Chair**: Prof. Luyao Zhang
 
 SciEcon AMA is a series of intellectual conversations among pioneering scholars, innovators, and global leaders. We together are contributing to the great purpose of building a vibrant community of diversity and inclusion that advances human civilization
@@ -54,6 +56,8 @@ Event Series: `Interviews`, `Seminars`, `Panelists`, `Symposiums`, `Conferences`
 
 **Current Executive Co-Chairs**: Zichao Chen
 
+**Inaugural Co-Chair**: Ziliang Tian
+
 **Inaugural Chair**: Prof. Luyao Zhang
 
 SciEcon Research is an accelerator program for young scholars to conduct exploratory research and identify important open questions for cutting-edge interdisciplinary research of both profound insights and practical impacts. 
@@ -71,6 +75,8 @@ Event Series (To be launched): `Tutorials` and `Workshops` for Research Resource
 **Sites**: <https://insight.sciecon.org/articles/Innovate/>
 
 **Current Executive Chair**: Yufan Zhang
+
+**Inaugural Co-Chair**: Zesen Zhuang
 
 **Inaugural Chairs**: Prof. Yulin Liu and Prof. Luyao Zhang
 
@@ -146,7 +152,7 @@ Event Series (To be launched): `SciEcon Design`,  `NFT collections` of AI genera
 
 **Inaugural Program Chair**: Prof. Luyao Zhang
 
-SciEcon provides comprehensive resources to support research, innovation, and leadership, including literature, data, institution, and event. Literature includes insightful research articles; Data provides useful data sources for research; Institution includes academic and industry organizations that share our vision; Event gathers relevant educational events and activities that the SciEcon community recommends.
+SciEcon provides comprehensive resources to support research, innovation, and leadership, including literature, data, and institution. Literature includes insightful research articles; Data provides useful data sources for research; Institution includes academic and industry organizations that share our vision.
 
 ## SciEcon Lab Incubator Program
 

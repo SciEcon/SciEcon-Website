@@ -60,6 +60,6 @@ Search for Zotero on your browser or go to [https://www.zotero.org/](https://www
 ![](./assets/../resources_thumbnails/search-for-groups.png){ width="500" }
 </figure>
 
-Log in / sign up a Zotero account and then click the “Groups” to search for our shared resource base. Then search for “**SciEcon Resource**” and then you will see the two shared resource groups. Then by clicking the resource library that you want, you will see the event list.
+Log in / sign up a Zotero account and then click the “Groups” to search for our shared resource base. Then search for “**SciEcon Resource**” and then you will see the two shared resource groups. Then by clicking the resource library that you want, you will see the literature list.
 
 [Back to Home](./index.md){ .md-button .md-button--primary }
