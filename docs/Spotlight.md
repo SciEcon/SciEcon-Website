@@ -19,7 +19,7 @@ COMPSCI/Econ 206 Computational Microeconomics Guest Lecture and Open AMA
 Published on
 Mar 30, 2022
 
-Link: [https://ce.pubpub.org/pub/cs-econ/release/4](https://ce.pubpub.org/pub/cs-econ/release/4)
+Link: [https://ce.pubpub.org/pub/cs-econ](https://ce.pubpub.org/pub/cs-econ)
 
 **Recap of ETHconomics @ Devconnect 2022**
 
@@ -28,7 +28,7 @@ Part of Computer Science Meets Economics on Ethereum Spotlight Series
 Published on
 Jun 07, 2022
 
-Link: [https://ce.pubpub.org/pub/ethconomics2022/release/5](https://ce.pubpub.org/pub/ethconomics2022/release/5)
+Link: [https://ce.pubpub.org/pub/ethconomics2022](https://ce.pubpub.org/pub/ethconomics2022)
 
 **SciEcon NFT Symposium: The Promise and Perils of NFT Marketplaces**
 

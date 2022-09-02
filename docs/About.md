@@ -12,7 +12,7 @@
             src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/luyao.jpg"width="200" />
         <figurecaption>Prof. Luyao Zhang</figurecaption>
     </figure>
-    <figure><img class="origin-img" id="yulin"
+    <figure><img class="origin-img" id="yulin" 
             src="https://raw.githubusercontent.com/SciEcon/SciEcon-Website/main/docs/people_thumbnail/yulin.jpg"width="200" />
         <figurecaption>Prof. Yulin Liu</figurecaption>
     </figure>

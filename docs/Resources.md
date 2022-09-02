@@ -36,12 +36,6 @@ Link to database:
 Fill out the following Google Form to contribute to the database:
 <https://docs.google.com/forms/d/e/1FAIpQLSebkBFMB9dDJbQ4od7iuFVWPm1yqJyklT38FCZHkkMDfD9Pfw/viewform?usp=sf_link>
 
-## Event
-
-<figure markdown>
-![logo](assets/../resources_thumbnails/Event.png){ width="500" }
-</figure>
-
 ## Literature
 
 <figure markdown>
