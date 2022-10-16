@@ -12,7 +12,7 @@ SciEcon aims at creating open education resources (OER) of the community, by the
 - **Series No. 2 Intelligent Economics: An Explanable AI Approach**: [https://ie.pubpub.org/](https://ie.pubpub.org/)
 - **Series No. 3 Computational Econnomics**: [https://ie.pubpub.org/](https://ie.pubpub.org/)
 
-## Data
+<!-- ## Data
 
 <figure markdown>
 ![logo](assets/../resources_thumbnails/Data.png){ width="500" }
@@ -62,4 +62,4 @@ Search for Zotero on your browser or go to [https://www.zotero.org/](https://www
 
 Log in / sign up a Zotero account and then click the “Groups” to search for our shared resource base. Then search for “**SciEcon Resource**” and then you will see the two shared resource groups. Then by clicking the resource library that you want, you will see the literature list.
 
-[Back to Home](./index.md){ .md-button .md-button--primary }
+[Back to Home](./index.md){ .md-button .md-button--primary } -->
