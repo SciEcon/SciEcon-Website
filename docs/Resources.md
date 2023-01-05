@@ -12,6 +12,7 @@ SciEcon aims at creating open education resources (OER) of the community, by the
 - **Series No. 2 Intelligent Economics: An Explanable AI Approach**: [https://ie.pubpub.org/](https://ie.pubpub.org/)
 - **Series No. 3 Computational Econnomics**: [https://ie.pubpub.org/](https://ie.pubpub.org/)
 
+
 <!-- ## Data
 
 <figure markdown>
