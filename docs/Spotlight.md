@@ -44,8 +44,7 @@ Published on
 
 Link: [https://sciecon-blockchain-plus-symposium.on.fleek.co/](https://sciecon-blockchain-plus-symposium.on.fleek.co/)
 
-## Publications
-
+## Publications and Pre-prints
 
 Liu, Yulin, Luyao Zhang*, and Yinhong Zhao#. 2022. “Deciphering Bitcoin Blockchain Data by Cohort Analysis.” Scientific Data 9 (136). [ https://doi.org/10.1038/s41597-022-01254-0](https://doi.org/10.1038/s41597-022-01254-0); GitHub: [https://github.com/SciEcon/UTXO](https://github.com/SciEcon/UTXO). 
 
